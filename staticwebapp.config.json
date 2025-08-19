@@ -1,0 +1,10 @@
+
+{
+  "routes": [
+    {
+      "route": "/index.html",
+      "redirect": "https://secure2.wise-sync.com/PaymentServices/WisePayHome",
+      "statusCode": 301
+    }
+  ]
+}
